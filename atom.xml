@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>地球观察员</title>
+  
+  <subtitle>第二人生</subtitle>
+  <link href="https://honkinglin.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://honkinglin.github.io/"/>
+  <updated>2023-06-05T08:07:06.084Z</updated>
+  <id>https://honkinglin.github.io/</id>
+  
+  <author>
+    <name>Kyrie Lin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://honkinglin.github.io/2023/06/05/hello-world/"/>
+    <id>https://honkinglin.github.io/2023/06/05/hello-world/</id>
+    <published>2023-06-05T08:07:06.084Z</published>
+    <updated>2023-06-05T08:07:06.084Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
