@@ -4,7 +4,7 @@
 
 # Site
 title: 地球观察员
-subtitle: '第二人生'
+subtitle: '开启第二人生'
 description: ''
 keywords: 'Blog, Kyrie Lin, 地球观察员'
 author: Kyrie Lin
@@ -33,6 +33,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
+auto_spacing: true # Add spaces between asian characters and western characters
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
@@ -98,14 +99,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: maupassant
-
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-# deploy:
-#   type: 'git'
-#   repo: 'https://github.com/honkinglin/honkinglin.github.io.git'
-#   branch: 'gh-pages'
-#   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 feed:
   type: atom
