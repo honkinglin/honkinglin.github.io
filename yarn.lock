@@ -946,6 +946,13 @@ hexo-generator-tag@^2.0.0:
   dependencies:
     hexo-pagination "3.0.0"
 
+hexo-helper-qrcode@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/hexo-helper-qrcode/-/hexo-helper-qrcode-1.0.2.tgz#867ca36104ab6962711f44b47e6645c3548cbc0a"
+  integrity sha512-/cGrNPVhR4DolCg6YTd4jrrAyBgfLZW3xh+3RlWgpJikMjD/xUui1oM8i+KHiGU0hAO9aMWM1pvuaRySzl0ucQ==
+  dependencies:
+    qr-image "^3.1.0"
+
 hexo-i18n@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hexo-i18n/-/hexo-i18n-1.0.0.tgz#7983fb3a313e90615b84dd8fa946a71c489ef5bd"
@@ -1054,6 +1061,11 @@ hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.5.0, hexo-util@^2.7.0:
     htmlparser2 "^7.0.0"
     prismjs "^1.17.1"
     strip-indent "^3.0.0"
+
+hexo-wordcount@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/hexo-wordcount/-/hexo-wordcount-6.0.1.tgz#5a60efc9d3c8e421956f2fd6683ca94a8a795264"
+  integrity sha512-tbo2P9xRWEKQmRf7+XuPjx9It1MnaE26nA+EEb2DN39gK1x+26W7Nm4Iyp4AugQjBWYYDx7OLn4gp1WFxQpQew==
 
 hexo@^6.3.0:
   version "6.3.0"
@@ -1869,6 +1881,11 @@ punycode@^2.1.1:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.3.0.tgz#f67fa67c94da8f4d0cfff981aee4118064199b8f"
   integrity sha512-rRV+zQD8tVFys26lAGR9WUuS4iUAngJScM+ZRSKtvl5tKeZ2t5bvdNFdNHBW9FWR4guGHlgmsZ1G7BSm2wTbuA==
+
+qr-image@^3.1.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/qr-image/-/qr-image-3.2.0.tgz#9fa8295beae50c4a149cf9f909a1db464a8672e8"
+  integrity sha512-rXKDS5Sx3YipVsqmlMJsJsk6jXylEpiHRC2+nJy66fxA5ExYyGa4PqwteW69SaVmAb2OQ18HbYriT7cGQMbduw==
 
 querystringify@^2.1.1:
   version "2.2.0"
